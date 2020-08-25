@@ -1,15 +1,27 @@
 # cocoa-documentation
 接触確認アプリ COCOA の非公式ドキュメント
 
+[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+
+[![GitHub issues](https://img.shields.io/github/issues/openCACAO/cocoa-documentation.js.svg)](https://GitHub.com/openCACAO/cocoa-documentation.js/issues/)
+
 ## このプロジェクトは何？
 
 [接触確認アプリ COCOA](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/cocoa_00138.html, "接触確認アプリ COCOA") の不具合や利用方法その他問題についてTwitterでワイガヤ語らって集まった有志が、個々が思うままに、一般の方々への問題解決をお手伝いする文章を載せたり、疑問や問題を議論してまとめたり、不具合を究明したり、愚痴るために立ち上げられました。
 
 参加・脱退は自由です。
 
-## 体制
+## コンテンツ
 
-管理者： Yoshiyuki Nakamura (＠nakayoshix) ← 参加のご希望はこちらまで
+「非公式ドキュメント」については本Repositoryの[Wiki](https://github.com/openCACAO/cocoa-documentation/wiki)へまとめられます。
+
+## 管理者
+
+- Yoshiyuki Nakamura ([nakayoshix](https://github.com/nakayoshix)) 
+- Tomoaki Masuda ([moonmile](https://github.com/moonmile))
+- ROCA ([rocaz](https://github.com/rocaz))
+
+コンテンツなどには何もしない管理者ですが、参加のご希望は上記のいずれかまでお知らせ下さい。
 
 他は参加者(Contributor)が自由におこなっています。Repository作成も原則自由ですが、管理者と参加者までご一報下さい。
 
@@ -21,7 +33,7 @@
 
 ## ライセンス
 
-このプロジェクトのコンテンツは一部他者・他社が権限を有するものを除いて、○×○ です。
+このプロジェクトのコンテンツは一部他者・他社が権限を有するものを除いて、[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja) にて運用されます。
 
 個々のRepositoryのライセンスも参照して下さい。
 
