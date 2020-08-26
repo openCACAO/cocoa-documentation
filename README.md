@@ -11,9 +11,13 @@
 
 参加・脱退は自由です。
 
-## コンテンツ
+## コンテンツの利用について
 
-「非公式ドキュメント」については本Repositoryの[Wiki](https://github.com/openCACAO/cocoa-documentation/wiki)へまとめられます。
+「非公式ドキュメント」については本Repositoryの[Wiki](https://github.com/openCACAO/cocoa-documentation/wiki)へまとめて下さい。
+
+このRepositoryのIssuesは「非公式ドキュメント」に関してのIssuesとしてご利用下さい。
+
+「COCOA自体のIssues」については専用Repositoryとして [cocoa-issues](https://github.com/openCACAO/cocoa-issues/issues) がありますのでそちらにてまとめて下さい。
 
 ## 管理者
 
